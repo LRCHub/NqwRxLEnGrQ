@@ -1,0 +1,45 @@
+# のあ – eleven
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+回れ、tick,tack,tick、0時前
+ぬるくなった珈琲と睡眠剤
+Check,Check,Check,turn off the
+light
+瞼の裏側、sleep,creep,bleed、眠
+ろう
+止まれ、tick,tack,tick、騒がしい
+角砂糖と塩分をかき混ぜて
+take,take,take、静まれ
+目を閉じて残像を浮かべよう
+カーテンを閉め切って
+そう、スピーカーで鳴らすのさ
+独りぼっちのラブソング
+奏でておやすみ
+Good night,君に Get down,独り
+I'll cry,すぐに
+She may have called me at eleven
+o'clock.
+Good night,つまり、涙の理由が
+僕には見えない
+So,brake my heart at eleven
+o'clock.
+回れ、tick,tack,tick、夜明け前
+ぬるくなったシャンパンと君の声
+take,take,take,夢見よう
+幻覚と催眠で君に会いに行こう
+Good night,君に Get down,独り
+I'll cry,すぐに
+She may have called me at eleven
+o'clock.
+Good night,つまり、涙の理由が
+僕には見えない
+So,brake my heart at eleven
+o'clock.
+止まれ、tick,tack,tick、心停止
+ぬるくなった体温と君の声
+Check,Check,Check,turn off the
+light
+時計の裏側、sleep,creep,bleed
+```
