@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "eleven",
+  "base_artist": "のあ",
+  "createdAt": "2025-12-01T11:36:35.397231Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eleven",
+      "artist": "Last Dinosaurs",
+      "has_synced": true,
+      "path": "select/01_Eleven_Last_Dinosaurs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eleven Roses",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/02_Eleven_Roses_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eleven Roses (Album Version)",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/03_Eleven_Roses_(Album_Version)_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mornings Eleven",
+      "artist": "The Magic Numbers",
+      "has_synced": true,
+      "path": "select/04_Mornings_Eleven_The_Magic_Numbers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "7-Eleven",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/05_7-Eleven_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eleven",
+      "artist": "Sylver",
+      "has_synced": false,
+      "path": "select/06_Eleven_Sylver.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eleven",
+      "artist": "Miss Kittin",
+      "has_synced": true,
+      "path": "select/07_Eleven_Miss_Kittin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Eleven Days (feat. Cyndi Lauper)",
+      "artist": "David Byrne, Fatboy Slim & Cyndi Lauper",
+      "has_synced": false,
+      "path": "select/08_Eleven_Days_(feat._Cyndi_Lauper)_David_Byrne,_Fatboy_Slim_&_Cyndi_Lauper.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eleven Days",
+      "artist": "Cyndi Lauper",
+      "has_synced": false,
+      "path": "select/09_Eleven_Days_Cyndi_Lauper.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eleven O'Clock",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Rachel Bloom",
+      "has_synced": false,
+      "path": "select/10_Eleven_O'Clock_Crazy_Ex-Girlfriend_Cast_feat._Rachel_Bloom.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Eleven",
+      "artist": "Primus",
+      "has_synced": true,
+      "path": "select/11_Eleven_Primus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Day Eleven: Love - live",
+      "artist": "Stream of Passion",
+      "has_synced": false,
+      "path": "select/12_Day_Eleven__Love_-_live_Stream_of_Passion.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Day Eleven: Love",
+      "artist": "Stream Of Passion",
+      "has_synced": false,
+      "path": "select/13_Day_Eleven__Love_Stream_Of_Passion.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Day Eleven: Love",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/14_Day_Eleven__Love_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Eleven",
+      "artist": "J Dilla",
+      "has_synced": false,
+      "path": "select/15_One_Eleven_J_Dilla.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eleven O'Clock",
+      "artist": "感覚ピエロ",
+      "has_synced": false,
+      "path": "select/pl_01_Eleven_O'Clock_感覚ピエロ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Eleven",
+      "artist": "感覚ピエロ",
+      "has_synced": false,
+      "path": "select/pl_02_Eleven_感覚ピエロ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "eleven",
+      "artist": "感覚ピエロ",
+      "has_synced": false,
+      "path": "select/pl_03_eleven_感覚ピエロ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Eleven Back",
+      "artist": "感覚ピエロ",
+      "has_synced": false,
+      "path": "select/pl_04_Eleven_Back_感覚ピエロ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Eleven",
+      "artist": "感覚ピエロ",
+      "has_synced": false,
+      "path": "select/pl_05_Eleven_感覚ピエロ.txt"
+    }
+  ]
+}
